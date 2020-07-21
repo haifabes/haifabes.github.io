@@ -1,0 +1,60 @@
+
+
+
+body
+{
+    background: url('asset/wallempty.jpg') no-repeat center center fixed;
+    background-size: 1550px 800px;
+    color: #19180A;
+ }
+
+.container-lg
+{
+    background-color: rgba(253,252,244,0.75);
+}
+
+.navbar
+{   
+    overflow: auto;
+    background-color: #970642;
+}
+.navbar a
+{   
+    float: center;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%;
+    color: #fffed1;;
+    vertical-align: middle;
+}
+.nav-item a:hover {
+  background-color: #87033a;
+}
+
+footer
+{
+    font-size: 50%;
+    color: #fa624d;
+    text-align: center;
+}
+
+
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+
+  
